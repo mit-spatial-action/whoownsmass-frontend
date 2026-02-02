@@ -15,7 +15,7 @@
 		"@sveltejs/adapter-netlify": "^5.2.4",
 		"@sveltejs/kit": "^2.50.1",
 		"@tsconfig/svelte": "^5.0.6",
-		"@turf/bbox": "^7.3.2",
+		"@turf/bbox": "^7.3.3",
 		"@types/geojson": "^7946.0.16",
 		"bulma": "^1.0.4",
 		"mapbox-gl": "^3.18.1",
