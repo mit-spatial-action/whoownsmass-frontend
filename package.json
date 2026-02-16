@@ -12,7 +12,7 @@
 		"@fortawesome/fontawesome-free": "^7.2.0",
 		"@mapbox/mapbox-gl-geocoder": "^5.1.2",
 		"@rollup/plugin-json": "^6.1.0",
-		"@sveltejs/adapter-netlify": "^5.2.4",
+		"@sveltejs/adapter-netlify": "^6.0.0",
 		"@sveltejs/kit": "^2.52.0",
 		"@tsconfig/svelte": "^5.0.7",
 		"@turf/bbox": "^7.3.4",
