@@ -14,7 +14,7 @@
 		"@rollup/plugin-json": "^6.1.0",
 		"@sveltejs/adapter-netlify": "^6.0.0",
 		"@sveltejs/kit": "^2.53.0",
-		"@tsconfig/svelte": "^5.0.7",
+		"@tsconfig/svelte": "^5.0.8",
 		"@turf/bbox": "^7.3.4",
 		"@types/geojson": "^7946.0.16",
 		"bulma": "^1.0.4",
