@@ -18,7 +18,7 @@
 		"@turf/bbox": "^7.3.4",
 		"@types/geojson": "^7946.0.16",
 		"bulma": "^1.0.4",
-		"mapbox-gl": "^3.19.1",
+		"mapbox-gl": "^3.20.0",
 		"mdsvex": "^0.12.7",
 		"sass": "^1.97.3",
 		"svelte": "^5.53.8",
