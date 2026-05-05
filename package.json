@@ -28,6 +28,6 @@
 		"vite": "^6.4.2"
 	},
 	"devDependencies": {
-		"netlify-cli": "^26.0.0"
+		"netlify-cli": "^26.0.1"
 	}
 }
