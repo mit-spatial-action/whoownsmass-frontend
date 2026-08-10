@@ -25,9 +25,9 @@
 		"svelte-loading-spinners": "^0.3.6",
 		"svelte-routing": "^2.13.0",
 		"typescript": "^6.0.3",
-		"vite": "^6.4.2"
+		"vite": "^8.2.1"
 	},
 	"devDependencies": {
-		"netlify-cli": "^26.0.1"
+		"netlify-cli": "^27.1.1"
 	}
 }
