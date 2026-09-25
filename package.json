@@ -25,7 +25,7 @@
 		"svelte": "^5.57.1",
 		"svelte-loading-spinners": "^0.3.6",
 		"svelte-routing": "^2.13.0",
-		"typescript": "^6.0.3",
+		"typescript": "^7.0.2",
 		"vite": "^8.3.0"
 	},
 	"devDependencies": {
